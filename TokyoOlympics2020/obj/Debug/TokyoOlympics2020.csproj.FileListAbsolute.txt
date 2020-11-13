@@ -1,0 +1,6 @@
+D:\STONKS\PP1_TI_Susana\TokyoOlympics2020\TokyoOlympics2020\bin\Debug\TokyoOlympics2020.exe.config
+D:\STONKS\PP1_TI_Susana\TokyoOlympics2020\TokyoOlympics2020\bin\Debug\TokyoOlympics2020.exe
+D:\STONKS\PP1_TI_Susana\TokyoOlympics2020\TokyoOlympics2020\bin\Debug\TokyoOlympics2020.pdb
+D:\STONKS\PP1_TI_Susana\TokyoOlympics2020\TokyoOlympics2020\obj\Debug\TokyoOlympics2020.exe
+D:\STONKS\PP1_TI_Susana\TokyoOlympics2020\TokyoOlympics2020\obj\Debug\TokyoOlympics2020.pdb
+D:\STONKS\PP1_TI_Susana\TokyoOlympics2020\TokyoOlympics2020\obj\Debug\TokyoOlympics2020.csprojAssemblyReference.cache
